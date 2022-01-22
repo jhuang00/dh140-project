@@ -1,17 +1,6 @@
-
-The markdown page will be your (or your group's) project proposal. Make sure to include the following:
-
-An introduction of your research question
-An explanation of why it is important to you, why it matters to others, and what is at stake
-A preliminary but definitive description of data sources that you will use
-  Include data sources with links
-A scope that explains the intended analysis and resulting visualizations for your project
-  This may change a lot in the next few weeks as we learn more about analysis and visualization
-  For the present moment, make an educated estimate
-A concluding paragraph of what insights you expect to gain from your research
-
 # Project Proposal
-
+## Digital Humanities 140
+![surveillance-cameras-photo](https://user-images.githubusercontent.com/72753663/150630124-d0dea831-5271-498c-9732-37b550437405.jpeg)
 ### Introduction
 #### Research Question: How is law-enforcing surveillance technology implemented in today's world?
 
@@ -27,3 +16,4 @@ In the analysis portion of the project, I will explore the variety of Law Enforc
 
 ### Conclusion
 By the end of this project, I hope to gain a deeper understanding of how surveillance technologies are used today in the context of law enforcement. Surveillance is an evolving and convoluted topic in the modern era, as technological development is happening at an increasingly rapid speed. Questions arise along with the advancements: where to draw the line between protection and privacy? This could allow us to gain insight into the effectiveness of law-enforcing surveillance, and hence, to gain an idea of how to best protect citizens living in this society.
+
